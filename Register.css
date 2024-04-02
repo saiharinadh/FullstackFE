@@ -4,8 +4,7 @@
     border: solid 2px green;
     border-radius: 15px;
     padding: 35px;
-    margin-left: 34%;
-    margin-top: 6%;
+    margin-top: 100px;
     
     
 
@@ -41,4 +40,9 @@ input[type="submit"]{
     border-radius: 15px;
     align-items: center;
     font-size: 15px;
+}
+
+.con{
+    display: flex;
+    justify-content: center;
 }
